@@ -49,7 +49,7 @@ To analyze data for **Aguascalientes**:
 
 ---
 
-##  License and Citation
+##  Citation
 
 If you use this dataset in your research or publications, please cite the following articles:
 
